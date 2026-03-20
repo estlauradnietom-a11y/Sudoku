@@ -41,7 +41,6 @@ public class Sudoku {
     public Tablero getTablero() { return tablero; }
 
     public String toString() {
-        
         return "";
     }
 }
